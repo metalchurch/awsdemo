@@ -1,0 +1,1 @@
+image-size="t2.micro"
